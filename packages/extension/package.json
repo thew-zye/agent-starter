@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "@cos/shared": "*",
-    "@types/chrome": "^0.3.7"
+    "@types/chrome": "^0.3.8"
   }
 }
